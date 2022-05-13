@@ -1,3 +1,3 @@
 #!/bin/sh
 
-flask run --bind=0.0.0.0:80
+flask run --host=0.0.0.0:80
